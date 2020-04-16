@@ -6,7 +6,7 @@ using TAP2020E02.Core;
 namespace TAP2020E02
 {
     public class Iban
-    {
+    {/*
         [TestClass]
         public class TestPalindrom
         {
@@ -17,6 +17,6 @@ namespace TAP2020E02
             {
                 iban=new 
             }
-        }
+        }*/
     }
 }
