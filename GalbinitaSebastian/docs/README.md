@@ -1,6 +1,6 @@
 # Principiile SOLID #
 
-    #Principiile SOLID#
+    # Principiile SOLID #
 ##1.S-Single Responsibility Principle
 ##2.O-Open-Closure Principle
 ##3.L-Liskov Substitution Principle
