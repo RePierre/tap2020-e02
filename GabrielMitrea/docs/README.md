@@ -1,11 +1,11 @@
 
 # Solid
 
-**S**-Single Responsability Principle
-**O**- Open-Closed Principle
-**L**-Liskov Substituion Principle
-**I**-Interface Segregation Principle
-**D**-Dependency Inversion Principle
+**S**-Single Responsability Principle<br/>
+**O**- Open-Closed Principle<br/>
+**L**-Liskov Substituion Principle<br/
+**I**-Interface Segregation Principle<br/>
+**D**-Dependency Inversion Principle<br/>
 
 ### Single Responsability Principle
 
