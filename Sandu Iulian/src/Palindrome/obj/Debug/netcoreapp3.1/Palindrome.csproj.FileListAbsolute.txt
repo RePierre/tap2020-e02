@@ -1,0 +1,8 @@
+C:\Users\sandu\source\repos\Palindrome\bin\Debug\netcoreapp3.1\Palindrome.deps.json
+C:\Users\sandu\source\repos\Palindrome\bin\Debug\netcoreapp3.1\Palindrome.dll
+C:\Users\sandu\source\repos\Palindrome\bin\Debug\netcoreapp3.1\Palindrome.pdb
+C:\Users\sandu\source\repos\Palindrome\obj\Debug\netcoreapp3.1\Palindrome.csproj.CoreCompileInputs.cache
+C:\Users\sandu\source\repos\Palindrome\obj\Debug\netcoreapp3.1\Palindrome.AssemblyInfoInputs.cache
+C:\Users\sandu\source\repos\Palindrome\obj\Debug\netcoreapp3.1\Palindrome.AssemblyInfo.cs
+C:\Users\sandu\source\repos\Palindrome\obj\Debug\netcoreapp3.1\Palindrome.dll
+C:\Users\sandu\source\repos\Palindrome\obj\Debug\netcoreapp3.1\Palindrome.pdb
