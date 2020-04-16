@@ -1,0 +1,8 @@
+C:\Users\user\Source\Repos\Pusculita\Pusculita\bin\Debug\netcoreapp3.1\Pusculita.deps.json
+C:\Users\user\Source\Repos\Pusculita\Pusculita\bin\Debug\netcoreapp3.1\Pusculita.dll
+C:\Users\user\Source\Repos\Pusculita\Pusculita\bin\Debug\netcoreapp3.1\Pusculita.pdb
+C:\Users\user\Source\Repos\Pusculita\Pusculita\obj\Debug\netcoreapp3.1\Pusculita.csprojAssemblyReference.cache
+C:\Users\user\Source\Repos\Pusculita\Pusculita\obj\Debug\netcoreapp3.1\Pusculita.AssemblyInfoInputs.cache
+C:\Users\user\Source\Repos\Pusculita\Pusculita\obj\Debug\netcoreapp3.1\Pusculita.AssemblyInfo.cs
+C:\Users\user\Source\Repos\Pusculita\Pusculita\obj\Debug\netcoreapp3.1\Pusculita.dll
+C:\Users\user\Source\Repos\Pusculita\Pusculita\obj\Debug\netcoreapp3.1\Pusculita.pdb
