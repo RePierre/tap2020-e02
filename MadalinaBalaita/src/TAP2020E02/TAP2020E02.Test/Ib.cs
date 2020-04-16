@@ -9,22 +9,23 @@ namespace TAP2020E02.Test
     {
         public IbanClient client { get; set; }
 
-        [TestInitialize]
-        public void TestInitialize()
+      /*  [TestInitialize]
+        public long TestInitialize()
         {
-            client.Iban = 1131007593840000;
+           return  client.Iban = 1131007593840000;
         }
-       
+       */
         [TestMethod]
         public void IsPalindromThrow()
         {
             //Arrange
+            long ib = 1000000000000001; ;
             bool isit;
             bool exceptionThrown = true;
             //Act
             try
             { 
-                isit=Palindrom.IsPalindrom(client.Iban);
+                isit=Palindrom.IsPalindrom(ib);
             }
             catch (InvalidOperationException)
             {
