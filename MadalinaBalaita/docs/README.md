@@ -1,0 +1,1 @@
+_Principiile SOLID_
