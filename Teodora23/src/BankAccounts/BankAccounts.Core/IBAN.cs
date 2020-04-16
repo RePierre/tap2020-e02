@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Text;
 
 namespace BankAccounts.Core
 {
@@ -8,8 +10,7 @@ namespace BankAccounts.Core
         public string Checksum { get; set; }
         public string Swift { get; set; }
         public string AccountNumber { get; set; }
-
-        public IBAN(string iban)
+        public void SetIBAN(string iban)
         {
             this.Country = iban.Substring(0, 2);
             this.Checksum = iban.Substring(2, 2);

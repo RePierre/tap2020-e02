@@ -1,15 +1,16 @@
-﻿using BankAccounts.Core;
-using System;
+﻿using System;
+using BankAccounts.Core;
 
-
-namespace BankAccounts
+namespace CheckPromoValidity
 {
     class Program
     {
         static void Main(string[] args)
         {
-            IBAN ibanThatIsPalindrome = new IBAN("RO41RZBR1234567887654321");
-            IBAN ibanThatIsNotPalindrome = new IBAN("RO41RZBR1874829486230562");
+            IBAN ibanThatIsPalindrome = new IBAN();
+            ibanThatIsPalindrome.SetIBAN("RO41RZBR1234567887654321");
+            IBAN ibanThatIsNotPalindrome = new IBAN();
+            ibanThatIsNotPalindrome.SetIBAN("RO41RZBR1764567821546321");
 
             Console.WriteLine(ibanThatIsPalindrome.IsPalindrome());
             Console.WriteLine(ibanThatIsNotPalindrome.IsPalindrome());
