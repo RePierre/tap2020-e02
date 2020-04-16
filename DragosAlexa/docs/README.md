@@ -23,8 +23,5 @@ Obiectele unui sistem software trebuie să fie substituibile de către instanțe
 Interfețele trebuie să fie mici și specifice contextului de utilizare; nu mari și generale.
 
 ## Dependency Inversion Principle ##
-<<<<<<< HEAD
 Modulele unui sistem software trebuie să depindă de reprezentări abstracte și nu de implementări concrete.
-=======
-Modulele unui sistem software trebuie să depindă de reprezentări abstracte și nu de implementări concrete.
->>>>>>> 43eaaa27227c10b8c08f5f8fba8fe587993436c1
+
