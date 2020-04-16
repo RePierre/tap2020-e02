@@ -26,6 +26,7 @@ namespace TAP2020E02.Test
             try
             { 
                 isit=Palindrom.IsPalindrom(ib);
+                Console.WriteLine("it is palindrome");
             }
             catch (InvalidOperationException)
             {
