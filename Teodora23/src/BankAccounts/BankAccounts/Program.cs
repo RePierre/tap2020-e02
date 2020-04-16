@@ -1,4 +1,6 @@
-﻿using System;
+﻿using BankAccounts.Core;
+using System;
+
 
 namespace BankAccounts
 {
@@ -6,7 +8,11 @@ namespace BankAccounts
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            IBAN ibanThatIsPalindrome = new IBAN("RO41RZBR1234567887654321");
+            IBAN ibanThatIsNotPalindrome = new IBAN("RO41RZBR1874829486230562");
+
+            Console.WriteLine(ibanThatIsPalindrome.IsPalindrome());
+            Console.WriteLine(ibanThatIsNotPalindrome.IsPalindrome());
         }
     }
 }
