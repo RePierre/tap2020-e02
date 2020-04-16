@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MaxinoiuMihaiRobertoE2/1.0.0": {
+        "dependencies": {
+          "Employee": "1.0.0",
+          "IsPalindrome": "1.0.0"
+        },
+        "runtime": {
+          "MaxinoiuMihaiRobertoE2.dll": {}
+        }
+      },
+      "Employee/1.0.0": {
+        "runtime": {
+          "Employee.dll": {}
+        }
+      },
+      "IsPalindrome/1.0.0": {
+        "dependencies": {
+          "Employee": "1.0.0"
+        },
+        "runtime": {
+          "IsPalindrome.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MaxinoiuMihaiRobertoE2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Employee/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IsPalindrome/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
