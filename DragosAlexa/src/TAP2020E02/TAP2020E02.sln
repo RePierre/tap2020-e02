@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TAP2020E02.Core", "TAP2020E02.Core\TAP2020E02.Core.csproj", "{D1709AA8-B8E6-4FD9-B9D1-8F71A747A647}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TAP2020E02.Tests", "TAP2020E02.Tests\TAP2020E02.Tests.csproj", "{B4F21A21-8E12-450F-B80C-948E89FD1859}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1709AA8-B8E6-4FD9-B9D1-8F71A747A647}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1709AA8-B8E6-4FD9-B9D1-8F71A747A647}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1709AA8-B8E6-4FD9-B9D1-8F71A747A647}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1709AA8-B8E6-4FD9-B9D1-8F71A747A647}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4F21A21-8E12-450F-B80C-948E89FD1859}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4F21A21-8E12-450F-B80C-948E89FD1859}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4F21A21-8E12-450F-B80C-948E89FD1859}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4F21A21-8E12-450F-B80C-948E89FD1859}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDC4B9CD-E92A-44AD-98CA-C5C7254BA5A2}
+	EndGlobalSection
+EndGlobal
