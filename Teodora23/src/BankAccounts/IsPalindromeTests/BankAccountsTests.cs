@@ -15,7 +15,7 @@ namespace Tests
         }
 
         [TestClass]
-        public class WhenIsPalindrom : BankAccountsTests
+        public class WhenIsPalindrome : BankAccountsTests
         {
             [TestInitialize]
             public void TestInitialize()
@@ -31,7 +31,27 @@ namespace Tests
                 bool result = this.Iban.IsPalindrome();
 
                 Assert.IsTrue(result);
-            } 
+            }
+        }
+
+        [TestClass]
+        public class WhenIsNotPalindrome : BankAccountsTests
+        {
+            [TestInitialize]
+            public void TestInitialize()
+            {
+                Initialize();
+            }
+
+            [TestMethod]
+            public void IsPalindromeShouldReturnFalse()
+            {
+                this.Iban.SetIBAN("RO41RZBR1764567821546321");
+
+                bool result = this.Iban.IsPalindrome();
+
+                Assert.IsFalse(result);
+            }
         }
     }
 }
