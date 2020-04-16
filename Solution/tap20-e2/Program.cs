@@ -6,7 +6,13 @@ namespace tap20_e2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            IBan Iban1 = new IBan("123456789100001987654321");
+            IBan Iban2 = new IBan("154643654365436546546541");
+            //"123456789100001987654321"
+            CheckIBAN check = new CheckIBAN();
+            check.CheckPalindrome(Iban1);
+            check.CheckPalindrome(Iban2);
+
         }
     }
 }
