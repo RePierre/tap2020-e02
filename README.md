@@ -14,9 +14,9 @@ Pentru a crește numărul de clienți, șeful de la **Leii Grei** vine cu o idee
 >
 > Trec diseară pe la tine la birou să-mi arăți ce-ai făcut.
 
-După ce ați citit de câteva ori e-mailul, vă dați seama că, de fapt, șeful vrea să creați o **metodă de extensiune** care să determine dacă cifrele numărului IBAN sunt palindrom iar *codul solid* se referă la **principiile SOLID** pe care le-ați menționat ieri într-o discuție cu colegul Andrei, alături de stilul **TDD** și bunele practici legate de istoricul codului-sursă.
+După ce ați citit de câteva ori e-mailul, vă dați seama că, de fapt, șeful vrea să creați o **metodă de extensiune** care să determine dacă cifrele numărului IBAN sunt palindrom iar *codul solid* se referă la **principiile SOLID** pe care le-ați menționat ieri într-o discuție cu colegul Manole, alături de stilul **TDD** și bunele practici legate de istoricul codului-sursă.
 
-Făcându-vă o notă să fiți mai atent(ă) în discuțiile viitoare cu Andrei, începeți să vă faceți o listă de acțiuni pentru a îndeplini sarcina primită:
+Făcându-vă o notă să fiți mai atent(ă) în discuțiile viitoare cu Manole, începeți să vă faceți o listă de acțiuni pentru a îndeplini sarcina primită:
 - Să creați o bibliotecă în limbajul `C#` care să conțină metoda de extensiune `IsPalindrome`,
 - Să creați un modul de teste pentru metoda nouă pentru a lucra în stilul TDD,
 - Să creați un document pentru a explica principiile SOLID deoarece explicațiile vor fi utilie și pentru alți colegi.
