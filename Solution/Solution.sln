@@ -7,6 +7,16 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tapE2", "tapE2\tapE2.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{2DB0A45F-C1DA-4E42-AC1A-DA22C9356A8E}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "docs", "docs", "{EDC34ECA-DA66-4A47-B983-AB7607DBFF16}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{9B4F3C04-CDB5-45D6-809F-C33E1F075583}"
+	ProjectSection(SolutionItems) = preProject
+		tapE2\tapE2.csproj = tapE2\tapE2.csproj
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,6 +34,10 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4911199B-D8A4-49F3-9BB7-C0EC2666B650} = {9B4F3C04-CDB5-45D6-809F-C33E1F075583}
+		{2DB0A45F-C1DA-4E42-AC1A-DA22C9356A8E} = {9B4F3C04-CDB5-45D6-809F-C33E1F075583}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B714D272-F80A-4743-90E2-14338ED763B4}
