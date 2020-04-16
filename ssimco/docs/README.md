@@ -1,7 +1,7 @@
 # Principiile SOLID:
 - **S** - Single Responsibility Principle
 
-Fiecare modul și clasă ar trebui să fie responsabile de un singur scop și toate componentele modulului sau clasei să servească la îndeplinirea acelui scop. 
+Fiecare modul și clasă ar trebui să fie responsabil de un singur scop și toate componentele modulului sau clasei să servească la îndeplinirea acelui scop. 
 
 - **O** - Open-Closed Principle
 
