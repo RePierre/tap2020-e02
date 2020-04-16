@@ -3,7 +3,7 @@
 
 **S**-Single Responsability Principle<br/>
 **O**- Open-Closed Principle<br/>
-**L**-Liskov Substituion Principle<br/
+**L**-Liskov Substituion Principle<br/>
 **I**-Interface Segregation Principle<br/>
 **D**-Dependency Inversion Principle<br/>
 
