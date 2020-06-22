@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TAP2020", "TAP2020\TAP2020.csproj", "{1E433248-9676-4887-A58C-99983E960820}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TAP", "TAP\TAP.csproj", "{D0209FE0-CCD9-47AF-A3CA-039CE0BBAFED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TAP2020.test", "TAP2020.test\TAP2020.test.csproj", "{BC252748-485E-404B-ADB3-656FA17B5AC6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E433248-9676-4887-A58C-99983E960820}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E433248-9676-4887-A58C-99983E960820}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E433248-9676-4887-A58C-99983E960820}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E433248-9676-4887-A58C-99983E960820}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0209FE0-CCD9-47AF-A3CA-039CE0BBAFED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0209FE0-CCD9-47AF-A3CA-039CE0BBAFED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0209FE0-CCD9-47AF-A3CA-039CE0BBAFED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0209FE0-CCD9-47AF-A3CA-039CE0BBAFED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC252748-485E-404B-ADB3-656FA17B5AC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC252748-485E-404B-ADB3-656FA17B5AC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC252748-485E-404B-ADB3-656FA17B5AC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC252748-485E-404B-ADB3-656FA17B5AC6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE7DA247-3D17-40ED-A72C-2C758150DC47}
+	EndGlobalSection
+EndGlobal
