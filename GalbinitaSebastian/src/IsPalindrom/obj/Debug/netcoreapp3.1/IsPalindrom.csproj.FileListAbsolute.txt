@@ -1,8 +1,0 @@
-C:\Users\lozag\source\repos\GalbinitaSebastian\src\IsPalindrom\obj\Debug\netcoreapp3.1\IsPalindrom.csprojAssemblyReference.cache
-C:\Users\lozag\source\repos\GalbinitaSebastian\src\IsPalindrom\obj\Debug\netcoreapp3.1\IsPalindrom.AssemblyInfoInputs.cache
-C:\Users\lozag\source\repos\GalbinitaSebastian\src\IsPalindrom\obj\Debug\netcoreapp3.1\IsPalindrom.AssemblyInfo.cs
-C:\Users\lozag\source\repos\GalbinitaSebastian\src\IsPalindrom\bin\Debug\netcoreapp3.1\IsPalindrom.deps.json
-C:\Users\lozag\source\repos\GalbinitaSebastian\src\IsPalindrom\bin\Debug\netcoreapp3.1\IsPalindrom.dll
-C:\Users\lozag\source\repos\GalbinitaSebastian\src\IsPalindrom\bin\Debug\netcoreapp3.1\IsPalindrom.pdb
-C:\Users\lozag\source\repos\GalbinitaSebastian\src\IsPalindrom\obj\Debug\netcoreapp3.1\IsPalindrom.dll
-C:\Users\lozag\source\repos\GalbinitaSebastian\src\IsPalindrom\obj\Debug\netcoreapp3.1\IsPalindrom.pdb
