@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GinigaGabrielE02", "GinigaGabrielE02.csproj", "{EF98E4D1-00E3-4C3E-A370-D1038E33376D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library", "..\Library\Library.csproj", "{1368E9A3-8307-4B4D-B365-45A2BA44A745}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDD", "..\TDD\TDD.csproj", "{DFA29134-DBE4-46B2-93CA-5B3DD1E3F30B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF98E4D1-00E3-4C3E-A370-D1038E33376D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF98E4D1-00E3-4C3E-A370-D1038E33376D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF98E4D1-00E3-4C3E-A370-D1038E33376D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF98E4D1-00E3-4C3E-A370-D1038E33376D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1368E9A3-8307-4B4D-B365-45A2BA44A745}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1368E9A3-8307-4B4D-B365-45A2BA44A745}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1368E9A3-8307-4B4D-B365-45A2BA44A745}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1368E9A3-8307-4B4D-B365-45A2BA44A745}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFA29134-DBE4-46B2-93CA-5B3DD1E3F30B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFA29134-DBE4-46B2-93CA-5B3DD1E3F30B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFA29134-DBE4-46B2-93CA-5B3DD1E3F30B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFA29134-DBE4-46B2-93CA-5B3DD1E3F30B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CC5EC22-9DE6-4E64-9C5E-E36AED9E8EEF}
+	EndGlobalSection
+EndGlobal
